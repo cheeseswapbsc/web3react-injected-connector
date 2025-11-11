@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "7.1.2",
+  "version": "7.1.3",
   "description": "Simple, maximally extensible, dependency minimized framework for EVM based dApps",
   "keywords": [
     "react",
@@ -38,7 +38,7 @@
     "node": ">=16.0.0"
   },
   "dependencies": {
-    "@cheeseswapfinance/web3-react-abstract-connector": "^7.1.2",
+    "@cheeseswapfinance/web3-react-abstract-connector": "^7.1.3",
     "@cheeseswapfinance/web3-react-types": "^7.1.2",
     "tiny-warning": "^1.0.3",
     "tsdx": "^0.11.0"
