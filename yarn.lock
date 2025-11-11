@@ -829,17 +829,18 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@cheeseswapfinance/web3-react-abstract-connector@^7.0.1":
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/@cheeseswapfinance/web3-react-abstract-connector/-/web3-react-abstract-connector-7.0.1.tgz#2e6763b20b263e29612df088f4d82d5629733faa"
-  integrity sha512-6sa/3a4lguYye3o99D1CR8EBGrYiZtABjYeyfC3M7Ms5AHEhkiaSog/8pktTAlZBhbDiStYwU5HEtidYB5mXuQ==
+"@cheeseswapfinance/web3-react-abstract-connector@^7.1.2":
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/@cheeseswapfinance/web3-react-abstract-connector/-/web3-react-abstract-connector-7.1.2.tgz#535df5a9f46a3a7c6f3a89cca4e0061d9a6d6c87"
+  integrity sha512-Uxr5uzl7chuZPncsNItDtrcEaifZ5LQ7my9nsTAbbrkkUKUfEqHJCPxeBcTC/MVXLWIAKkbuj7St9+kiZcLDtQ==
   dependencies:
-    "@cheeseswapfinance/web3-react-types" "^7.0.1"
+    "@cheeseswapfinance/web3-react-types" "^7.1.2"
+    "@metamask/safe-event-emitter" "^3.1.2"
 
-"@cheeseswapfinance/web3-react-types@^7.0.1":
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/@cheeseswapfinance/web3-react-types/-/web3-react-types-7.0.1.tgz#026254996b8416275f5493556e6b97f28001934c"
-  integrity sha512-9/LwXbDjUipTlyhORdinokpURQuQUXsKekVV5D9UPE+jYgKkeGufNc8JOuIwcAu03gSwzvstv5/ki0u2jFmEGA==
+"@cheeseswapfinance/web3-react-types@^7.1.2":
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/@cheeseswapfinance/web3-react-types/-/web3-react-types-7.1.2.tgz#e1e25b9c389cc64f69381dd92d8855715afbe090"
+  integrity sha512-OPVij5mwpr2C2pQo6OGGAXSMoIK7GWvJm3Njk1EGhtxJ9ZJyZvXv3pmDKUyRlbYRDFHLmR6N/DIKdh4lmZ1gmg==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
@@ -996,6 +997,11 @@
     "@types/istanbul-lib-coverage" "^2.0.0"
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
+
+"@metamask/safe-event-emitter@^3.1.2":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@metamask/safe-event-emitter/-/safe-event-emitter-3.1.2.tgz#bfac8c7a1a149b5bbfe98f59fbfea512dfa3bad4"
+  integrity sha512-5yb2gMI1BDm0JybZezeoX/3XhPDOtTbcFvpTXM9kxsoZjPZFh4XciqRbpD6N86HYZqWDhEaKUDuOyR0sQHEjMA==
 
 "@types/babel__core@^7.1.0":
   version "7.1.12"
